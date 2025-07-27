@@ -12,7 +12,6 @@
 
 .testimonial__img {
     width: 60px;
-    height: 40px;
     border-radius: 3rem;
     margin-bottom: var(--mb-1);
 }

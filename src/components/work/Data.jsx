@@ -26,9 +26,9 @@ export const projectsData = [
   {
     id: 3,
     image: GoApp,
-    title: "Brand Social Media",
+    title: "Go solar App",
     category: "app",
-    link: "https://www.facebook.com/saidallaw1/allactivity",
+    link: "https://www.gosolaregypt.com/",
     description: "Showcase of social media presence and content strategy.",
     tools: ["React Native Cli", "Firebase", "Redux", "React Navigation", "Google Maps" ]
   },
