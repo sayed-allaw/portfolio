@@ -9,7 +9,7 @@ const Qualification = () => {
 
   return (
     <section className="qualificatio section">
-      <h2 className="section__title">Skills</h2>
+      <h2 className="section__title">Qualification</h2>
       <span className="section__subtitle">My Personel journey</span>
 
       <div className="qualification__container container">
@@ -49,12 +49,12 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Developer</h3>
+                <h3 className="qualification__title">Bachelor of Computer Science</h3>
                 <span className="qualification__subtitle">
-                  Spain - Institute
+                  Obour - Obour Institute 
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2021 - Present
+                  <i className="uil uil-calender-alt"></i>2021 - 2025
                 </div>
               </div>
               <div>
@@ -70,48 +70,33 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Mobile Developer</h3>
+                <h3 className="qualification__title">Front-End Web Development</h3>
                 <span className="qualification__subtitle">
-                  Spain - Institute
-                </span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2023 - Present
-                </div>
-              </div>
-            </div>
-
-            <div className="qualification__data">
-              <div>
-                <h3 className="qualification__title">Web Design</h3>
-                <span className="qualification__subtitle">
-                  Spain - Institute
-                </span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2021 - 2023
-                </div>
-              </div>
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-            </div>
-
-            <div className="qualification__data">
-              <div></div>
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-              <div>
-                <h3 className="qualification__title">UX Espert</h3>
-                <span className="qualification__subtitle">
-                  Spain - Institute
+                  obour - ِATIC
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>2021 - 2022
                 </div>
               </div>
             </div>
+
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">Problem Solving</h3>
+                <span className="qualification__subtitle">
+                  Obour - ATIC
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i>2022 - 2024
+                </div>
+              </div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
+
+            
           </div>
 
           <div className={
@@ -121,12 +106,12 @@ const Qualification = () => {
             }>
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Product Designer</h3>
+                <h3 className="qualification__title">Front-End (React) </h3>
                 <span className="qualification__subtitle">
-                  Microsoft - Spain
+                  Obour - GoSolor
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2021 - Present
+                  <i className="uil uil-calender-alt"></i>2024 - 2025
                 </div>
               </div>
               <div>
@@ -142,20 +127,20 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Mobile Developer</h3>
-                <span className="qualification__subtitle">Apple - Spain</span>
+                <h3 className="qualification__title">Mobile Developer (react-native)</h3>
+                <span className="qualification__subtitle">Obour - GO</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2023 - Present
+                  <i className="uil uil-calender-alt"></i>2024 - 2025
                 </div>
               </div>
             </div>
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Design</h3>
-                <span className="qualification__subtitle">Figma - Spain</span>
+                <h3 className="qualification__title">Front-End Develope</h3>
+                <span className="qualification__subtitle">Saudi Arabia - IRIS</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2021 - 2023
+                  <i className="uil uil-calender-alt"></i>2023- 2024
                 </div>
               </div>
               <div>

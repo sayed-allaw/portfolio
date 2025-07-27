@@ -40,11 +40,48 @@
     margin-bottom: var(--mb-1);
 }
 
+
+
+
+/* --- The container for all tools --- */
+.work__tools-flex {
+    display: flex;       /* Use Flexbox for alignment */
+    flex-wrap: wrap;     /* Allow items to wrap to the next line if they don't fit */
+    justify-content: flex-start; /* Align items to the start (or use 'center') */
+    gap: 0.5rem;         /* The space between each tool (vertical & horizontal) */
+    margin-top: 1rem;    /* Add some space above the tools container */
+}
+
+/* --- Styling for each individual tool tag --- */
+.work__tool {
+    background-color: #000000;  /* A light, neutral background color */
+    color: var(--container-color);   /* Your theme's text color */
+    font-size: var(--small-font-size); /* A smaller font size is usually better for tags */
+    padding: 0.25rem 0.75rem;   /* Padding to give it space inside */
+    border-radius: 20px;        /* Makes the corners fully rounded (pill shape) */
+    border: 1px solid #e0e0e0;  /* A subtle border */
+}
+
+/* --- You can keep these as they are --- */
 .work__title {
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
     margin-bottom: var(--mb-0-5);
 }
+
+.work__deatails {
+    margin-bottom: var(--mb-1);
+    width: 280px;
+}
+
+.work__description {
+    color: var(--text-color);
+    font-size: var(--small-font-size);
+}
+
+
+
+
 
 .work__button {
     color: var(--text-color);
